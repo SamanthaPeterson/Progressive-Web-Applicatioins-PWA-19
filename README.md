@@ -1,6 +1,6 @@
 # Progressive Web Applicatioins PWA 19
  Progressive Web Applicatioins PWA 19
-## NoSQL 18
+##  Progressive Web Applicatioins PWA 19
 
 
 <!-- PROJECT LOGO -->
@@ -8,10 +8,10 @@
 <p align="center">
 
 
-  <h1 align="center">NoSQL MongoDB Social network API</h1>
+  <h1 align="center"> Progressive Web Applicatioin PWA 19</h1>
 
   <p align="center">
-    NoSQL MongoDB Social network API - Created by Samantha Peterson
+  Progressive Web Applicatioins PWA 19 - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -20,7 +20,7 @@
    
 ## Brief Summary 
 
-A social Network API b
+ Progressive Web Applicatioins PWA 19
  
 
 ## Screenshot
@@ -29,8 +29,8 @@ A social Network API b
 
 
 
-Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
- click here to watch the walk through video https://youtu.be/V4YOchf2pCY
+Click this link to view the project ...
+ click here to watch the walk through video ..
 
    
   </p>
@@ -79,6 +79,7 @@ Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [MongoDB Atlas](https://getbootstrap.com/)
 * [MongoDB Compass](https://getbootstrap.com/)
+ Progressive Web Applicatioins PWA 19
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -88,12 +89,12 @@ Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
 
 1. Click on the link below or enter it in your browser
    ```sh
-    https://github.com/SamanthaPeterson/NoSQL-18
+     Progressive Web Applicatioins PWA 19
     
     https://youtu.be/V4YOchf2pCY
    ```
 2. Enter city names in the search bar, and view the current and forecast weather information available
-Step 2dghadfhjadjsdbvserd
+Step 2  Progressive Web Applicatioins PWA 19
 
 
 
@@ -148,7 +149,7 @@ Email photographer.samantha@live.com
 
  
 
-
+ Progressive Web Applicatioins PWA 19
 Project Link: [https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard](https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard)
 
 
@@ -158,6 +159,6 @@ Project Link: [https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashb
 
 * [MongoDB](https://getbootstrap.com/)
 * [Javascript](https://sequelize.org/)
-
+ Progressive Web Applicatioins PWA 19
 Thank you to my TA and classmate for helping me to do some trouble shooting during office hours. 
 And thank you as well to my tutor for also helping me to better organize my files and troubleshoot. 
