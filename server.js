@@ -6,9 +6,9 @@ const mongoose = require("mongoose");
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-const {
-  Note
-} = require('./models');
+// const {
+//   Note
+// } = require('./models');
 
 // app.use(logger("dev"));
 
