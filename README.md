@@ -1,6 +1,3 @@
-# Progressive Web Applicatioins PWA 19
- Progressive Web Applicatioins PWA 19
-##  Progressive Web Applicatioins PWA 19
 
 
 <!-- PROJECT LOGO -->
@@ -8,10 +5,10 @@
 <p align="center">
 
 
-  <h1 align="center"> Progressive Web Applicatioin PWA 19</h1>
+  <h1 align="center"> Progressive Web Application PWA 19</h1>
 
   <p align="center">
-  Progressive Web Applicatioins PWA 19 - Created by Samantha Peterson
+  Progressive Web Applications PWA 19 - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -20,7 +17,7 @@
    
 ## Brief Summary 
 
- Progressive Web Applicatioins PWA 19
+ Progressive Web Applications PWA 19
  
 
 ## Screenshot

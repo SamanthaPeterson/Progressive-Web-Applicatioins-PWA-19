@@ -1,9 +1,9 @@
-const CACHE_NAME = "static-cache-v2";
-const DATA_CACHE_NAME = "data-cache-v1";
-
 const APP_PREFIX = 'Budget-Tracker-PWA-';
 const VERSION = 'version_01';
-const CACHE_NAME = APP_PREFIX + VERSION;
+const CACHE_NAME = "static-cache-v";
+
+const DATA_CACHE_NAME = "data-cache-v1";
+//const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
     "/",
