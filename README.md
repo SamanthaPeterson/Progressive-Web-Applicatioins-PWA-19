@@ -21,7 +21,8 @@ https://pwa-samantha-peterson.herokuapp.com/
 https://youtu.be/UVfBHLZ8-sc
 
 ## Screenshot
-<img width=" ">
+<img width![Screen Shot 2021-11-01 at 5 46 12 PM](https://user-images.githubusercontent.com/85209802/139759298-8e4b9d61-2b4e-4945-bb14-9c0d5cdd044a.png)
+=" ">
 
 
 https://pwa-samantha-peterson.herokuapp.com/
