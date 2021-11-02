@@ -17,16 +17,16 @@
 ## Brief Summary 
 
  Progressive Web Applicatioins PWA 19
- https://pwa-budget-tracker-samanthap.herokuapp.com/
+https://pwa-samantha-peterson.herokuapp.com/
 https://youtu.be/UVfBHLZ8-sc
 
 ## Screenshot
 <img width=" ">
 
 
-https://pwa-budget-tracker-samanthap.herokuapp.com/
+https://pwa-samantha-peterson.herokuapp.com/
 
-Click this link to view the project ... https://pwa-budget-tracker-samanthap.herokuapp.com/
+Click this link to view the project ... https://pwa-samantha-peterson.herokuapp.com/
  click here to watch the walk through video .. https://youtu.be/UVfBHLZ8-sc
 
    
@@ -87,7 +87,7 @@ Click this link to view the project ... https://pwa-budget-tracker-samanthap.her
 1. Click on the link below or enter it in your browser
    ```sh
      Progressive Web Applicatioins PWA 19
-    https://pwa-budget-tracker-samanthap.herokuapp.com/
+   https://pwa-samantha-peterson.herokuapp.com/
 https://youtu.be/UVfBHLZ8-sc
    ```
 2. Enter city names in the search bar, and view the current and forecast weather information available
@@ -148,7 +148,7 @@ Email photographer.samantha@live.com
 
  Progressive Web Applicatioins PWA 19
 Project Link: [https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard](https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard)
-https://pwa-budget-tracker-samanthap.herokuapp.com/ - See the deployed app
+https://pwa-samantha-peterson.herokuapp.com/ - See the deployed app
 https://youtu.be/UVfBHLZ8-sc
 
 <!-- ACKNOWLEDGEMENTS -->
