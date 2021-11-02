@@ -85,11 +85,12 @@ Click this link to view the project ... https://pwa-samantha-peterson.herokuapp.
 ### Installation
 
 1. Click on the link below or enter it in your browser
-   ```sh
+
      Progressive Web Applicatioins PWA 19
    https://pwa-samantha-peterson.herokuapp.com/
+Check out the video
 https://youtu.be/UVfBHLZ8-sc
-   ```
+   
 2. Enter city names in the search bar, and view the current and forecast weather information available
 Step 2  Progressive Web Applicatioins PWA 19
 
