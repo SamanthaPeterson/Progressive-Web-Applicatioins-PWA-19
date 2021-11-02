@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 716f879aa788ee2cd57f58c14c16c836ae3dc586
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,13 +16,8 @@
    
 ## Brief Summary 
 
-<<<<<<< HEAD
- Progressive Web Applications PWA 19
- 
-=======
  Progressive Web Applicatioins PWA 19
  https://pwa-budget-tracker-samanthap.herokuapp.com/
->>>>>>> 716f879aa788ee2cd57f58c14c16c836ae3dc586
 
 ## Screenshot
 <img width=" ">
